@@ -3,7 +3,7 @@
 Plugin Name: SoShake
 Plugin URI: https://github.com/SoShake/SoShake-Wordpress-Plugin
 Description: easy social plugins integration.
-Version: 2.0
+Version: 3.0
 Author: SoShake
 Author URI: http://soshake.com
 */
