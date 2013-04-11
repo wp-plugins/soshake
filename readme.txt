@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: SoShake
 Donate link: http://soshake.com/
-Tags: social, share, facebook, twitter, pinterest, linkedin, Google, Google+, social network, like, tweet, Facebook Connect, Open Graph, Social Graph, up2social, soshake
+Tags: social, share, facebook, twitter, pinterest, linkedin, Google, Google+, social network, like, tweet, Facebook Connect, Open Graph, Social Graph, soshake
 Requires at least: 2.0.2
 Tested up to: 3.4
 Stable tag: 3.0
